@@ -14,13 +14,3 @@ For this project, I created the procedural jellyfish in Houdini 22, focusing on 
 ## Final Videos
 
 [jellyfish](https://vimeo.com/1237474215/8c0ec6bcc5?share=copy&fl=sv&fe=ci)
-
-## Submission
-- Fork this repository
-- Update your README
-    - Please delete the assignment README text
-    - A description of your project
-    - A video of your animated jellyfish ([video](https://www.youtube.com/watch?v=gXtDd1lPDmc) of how to save a video of your viewport out of Houdini)
-- Create a pull request to this repository
-- Submit your Houdini file to Canvas along with a link to your pull request
-(Don't upload your houdini files to github -- it's a pain to upload big/binary files. Just canvas is fine!)
